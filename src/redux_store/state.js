@@ -19,7 +19,7 @@ const reducer = (state = initialState, action) => {
     case 'remove_product':
       return {
         ...state,
-        cart: state.cart.filter(product => product.id != action.payload)
+        cart: state.cart.filter(product => product.id !== action.payload)
       }
 
     case 'update_products':
