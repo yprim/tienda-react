@@ -16,7 +16,7 @@ async function getProducts() {
     products:
       [
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '1',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -24,7 +24,7 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '2',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -32,7 +32,7 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '3',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -40,14 +40,14 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '4',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
           stock: 25,
           tax: 0
         }, {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '5',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -55,14 +55,14 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '6',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
           stock: 25,
           tax: 0
         }, {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '7',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -70,14 +70,14 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '8',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
           stock: 25,
           tax: 0
         }, {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '8',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -85,14 +85,14 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '9',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
           stock: 25,
           tax: 0
         }, {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '10',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -100,14 +100,14 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '11',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
           stock: 25,
           tax: 0
         }, {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '12',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -115,14 +115,14 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '13',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
           stock: 25,
           tax: 0
         }, {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '14',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -130,14 +130,14 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '15',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
           stock: 25,
           tax: 0
         }, {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '16',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -145,14 +145,14 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '17',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
           stock: 25,
           tax: 0
         }, {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '18',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -160,14 +160,14 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '19',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
           stock: 25,
           tax: 0
         }, {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '20',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -175,14 +175,14 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '21',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
           stock: 25,
           tax: 0
         }, {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '22',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -190,7 +190,7 @@ async function getProducts() {
           tax: 0
         },
         {
-          name: 'shampoo ',
+          name: 'talco ',
           id: '23',
           img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
           price: 12345,
@@ -207,7 +207,7 @@ async function getProduct(id) {
   // console.log(json);
   // return json;
   return {
-    name: 'shampoo ',
+    name: 'talco ',
     id: '1',
     img: 'http://www.adorit.com.uy/uploads/PP326.jpg',
     price: 12345,
