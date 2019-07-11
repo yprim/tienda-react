@@ -1,0 +1,233 @@
+body{
+  background-color: #f5f5f5;
+  font-size: 1.25rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+span {
+  user-select: none; /* supported by Chrome and Opera */
+ -webkit-user-select: none; /* Safari */
+ -khtml-user-select: none; /* Konqueror HTML */
+ -moz-user-select: none; /* Firefox */
+ -ms-user-select: none; /* Internet Explorer/Edge */
+}
+
+h1, h2, h3, h5, h5 {
+  text-transform: capitalize;
+}
+
+h5, a{
+  text-decoration: none !important;
+  color: inherit;
+}
+
+h5, a:hover {
+  color: inherit;
+}
+
+.navbar {
+  /* background-color: #eef3ef !important; */
+  background-color: #fff !important;
+}  
+
+.search-bar {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.cart-login-section {
+  margin-left:auto; 
+  margin-right:0;
+}
+
+.container {
+  margin-top: 1%;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+}
+
+ul.pagination {
+  box-shadow: none !important;
+}
+
+ul li {
+  padding: 0 3px;
+  margin-bottom: 1%;
+}
+
+th, td {
+  padding: 15px;
+}
+
+.product-details {
+  font-size: 24px;
+  margin: auto;
+  margin-top: 34%;
+  width: 100%;
+  padding: 10px;
+}
+
+.product-img {
+  width: 200px;
+}
+
+.product-img-details {
+  width: 500px;
+}
+
+.product-img-cart {
+  width: 50px;
+  height: 50px;
+}
+
+.img-empty {
+  position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 495;
+   height: 391;
+   margin-top: -195px; /* Half the height */
+   margin-left: -247px; /* Half the width */
+}
+
+.img-search-empty {
+  position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 555px;
+   height: 230px;
+   margin-top: -115px; /* Half the height */
+   margin-left: -277px; /* Half the width */
+}
+
+.card:hover {
+  border-color: #999;
+  box-shadow: 1px 2px #999;
+}
+
+.card {
+  margin-bottom: 1em;
+}
+
+.price {
+  color: seagreen;
+  font-weight: bold;    
+}
+
+.stepper-input{
+  display: flex;
+  display: -webkit-flex;
+  color: #222;
+  max-width: 120px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+.add {
+  text-transform: uppercase;
+  font-size: 0.8em;
+  font-weight: bold;
+  color: white;
+}
+
+.checkout {
+  text-transform: uppercase;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+.add:hover {
+  background-color: deepskyblue;
+  border-color: deepskyblue;
+}
+
+tr {
+  text-align: center;
+}
+
+.modal-header {
+  border-bottom: 0px;
+}
+
+.counter {
+  font-size: 0.6em;
+  margin-left: 1em;
+  font-weight: bold;
+}
+
+.increment,
+.decrement{
+  height: 24px;
+  width: 24px;
+  border: 1px solid #222;
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 50%;
+  text-decoration: none;
+  color: #222;
+  font-size: 24px;
+  line-height: 22px;
+  display: inline-block;
+  cursor: pointer;             
+}
+
+.decrement:hover, 
+.increment:hover {
+    color: green;  
+}
+
+.decrement:active, 
+.increment:active {    
+    background-color: green; 
+    color: white;  
+}
+
+.quantity{
+  height: 24px;
+  width: 48px;
+  text-align: center;
+  margin: 0 12px;
+  border-radius: 2px;
+  border: 1px solid #222;
+        
+}
+
+.current-page {
+  font-size: 1.5rem;
+  vertical-align: middle; 
+
+}
+    
+/* Override some Bootstrap pagination styles */
+ul.pagination {
+  margin-top: 0;
+  margin-bottom: 0;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); 
+}
+
+ul.pagination li.page-item.active a.page-link {
+  color: #445565 !important;
+  background-color: #e3e7eb !important;
+  border-color: #ced4da !important; 
+}
+
+ul.pagination a.page-link {
+  padding: 0.75rem 1rem;
+  min-width: 3.5rem;
+  text-align: center;
+  box-shadow: none !important;
+  border-color: #ced4da !important;
+  color: #6b88a4;
+  font-weight: 900;
+  font-size: 1rem; 
+}
+
+ul.pagination a.page-link:hover {
+  background-color: #f4f4f4; 
+}
+
